@@ -1,9 +1,9 @@
 #include<stdio.h>
 //area of a square
 int main(){
-    int side;
+    int radius;
     printf("enter side:");
-    scanf("%d",&side);
-    printf("%d",side * side);
+    scanf("%f",&radius);
+    printf("%f",3.14 * radius * radius);
     return 0;
  }
