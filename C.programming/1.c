@@ -1,11 +1,12 @@
 #include<stdio.h>
 //addition of 2 numbers
 int main(){
-    int a,b;
-    printf("enter a");
+    int a;
+    int b;
+    printf("enter a:");
     scanf("%d",&a);
-    printf("enter b");
+    printf("enter b:");
     scanf("%d",&b);
     int result = a + b;
-    printf("result : %d",result);
+    printf("result:%d\n",result);
  }
