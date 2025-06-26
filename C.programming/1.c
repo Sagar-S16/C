@@ -9,4 +9,5 @@ int main(){
     scanf("%d",&b);
     int result = a + b;
     printf("result:%d\n",result);
+    return 0;
  }
