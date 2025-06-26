@@ -1,5 +1,5 @@
 #include<stdio.h>
-//area of a square
+//area of a circle
 int main(){
     float radius;
     printf("enter radius:");
